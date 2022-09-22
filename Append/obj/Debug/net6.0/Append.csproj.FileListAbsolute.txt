@@ -1,0 +1,15 @@
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\bin\Debug\net6.0\Append.exe
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\bin\Debug\net6.0\Append.deps.json
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\bin\Debug\net6.0\Append.runtimeconfig.json
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\bin\Debug\net6.0\Append.dll
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\bin\Debug\net6.0\Append.pdb
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\obj\Debug\net6.0\Append.csproj.AssemblyReference.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\obj\Debug\net6.0\Append.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\obj\Debug\net6.0\Append.AssemblyInfoInputs.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\obj\Debug\net6.0\Append.AssemblyInfo.cs
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\obj\Debug\net6.0\Append.csproj.CoreCompileInputs.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\obj\Debug\net6.0\Append.dll
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\obj\Debug\net6.0\refint\Append.dll
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\obj\Debug\net6.0\Append.pdb
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\obj\Debug\net6.0\Append.genruntimeconfig.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\Append\obj\Debug\net6.0\ref\Append.dll

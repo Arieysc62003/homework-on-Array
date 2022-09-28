@@ -1,0 +1,15 @@
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\bin\Debug\net6.0\GetAllContains.exe
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\bin\Debug\net6.0\GetAllContains.deps.json
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\bin\Debug\net6.0\GetAllContains.runtimeconfig.json
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\bin\Debug\net6.0\GetAllContains.dll
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\bin\Debug\net6.0\GetAllContains.pdb
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\obj\Debug\net6.0\GetAllContains.csproj.AssemblyReference.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\obj\Debug\net6.0\GetAllContains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\obj\Debug\net6.0\GetAllContains.AssemblyInfoInputs.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\obj\Debug\net6.0\GetAllContains.AssemblyInfo.cs
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\obj\Debug\net6.0\GetAllContains.csproj.CoreCompileInputs.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\obj\Debug\net6.0\GetAllContains.dll
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\obj\Debug\net6.0\refint\GetAllContains.dll
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\obj\Debug\net6.0\GetAllContains.pdb
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\obj\Debug\net6.0\GetAllContains.genruntimeconfig.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetAllContains\obj\Debug\net6.0\ref\GetAllContains.dll

@@ -14,6 +14,13 @@
     }
     static int[] Add(int[] getArr, int getAdd)
     {
+        if (getArr.Length == 0 || getArr == null)
+        {
+            int[] addNum = { getAdd };
+            return (
+                addNum
+                );
+        }
         int[] add = new int[getArr.Length + 1];
 
         for (int i = 0; i < getArr.Length; i++)

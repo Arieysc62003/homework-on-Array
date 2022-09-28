@@ -1,0 +1,15 @@
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\bin\Debug\net6.0\GetItemsExpect.exe
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\bin\Debug\net6.0\GetItemsExpect.deps.json
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\bin\Debug\net6.0\GetItemsExpect.runtimeconfig.json
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\bin\Debug\net6.0\GetItemsExpect.dll
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\bin\Debug\net6.0\GetItemsExpect.pdb
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\obj\Debug\net6.0\GetItemsExpect.csproj.AssemblyReference.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\obj\Debug\net6.0\GetItemsExpect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\obj\Debug\net6.0\GetItemsExpect.AssemblyInfoInputs.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\obj\Debug\net6.0\GetItemsExpect.AssemblyInfo.cs
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\obj\Debug\net6.0\GetItemsExpect.csproj.CoreCompileInputs.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\obj\Debug\net6.0\GetItemsExpect.dll
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\obj\Debug\net6.0\refint\GetItemsExpect.dll
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\obj\Debug\net6.0\GetItemsExpect.pdb
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\obj\Debug\net6.0\GetItemsExpect.genruntimeconfig.cache
+C:\Users\ariey\OneDrive\Documents\Array methods\homework\GetItemsExpect\obj\Debug\net6.0\ref\GetItemsExpect.dll

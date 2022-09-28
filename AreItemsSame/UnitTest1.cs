@@ -18,9 +18,9 @@ public class Tests
         return true;
     }
 
-    [TestCase(new int[] { 3, 73, 67, 3, 5 }, ExpectedResult = true)]
+    [TestCase(new int[] { 3, 73, 67, 3, 5 }, ExpectedResult = false)]
     [TestCase(new int[] { 2, 2, 2, 2, 2, 2, 2, 2 }, ExpectedResult = true)]
-    [TestCase(new int[] { 1, 3, 1, 3, 1, 3 }, ExpectedResult = true)]
+    [TestCase(new int[] { 1, 3, 1, 3, 1, 3 }, ExpectedResult = false)]
     [TestCase(new int[] { 4, 4, 4, 4, 4, 4, 4 }, ExpectedResult = true)]
     [TestCase(new int[] { }, ExpectedResult = true)]
     public bool Test(int[] arr)
